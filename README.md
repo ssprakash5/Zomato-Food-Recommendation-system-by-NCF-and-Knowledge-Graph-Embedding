@@ -21,11 +21,13 @@ This project aims to enhance Zomato's food recommendation system by incorporatin
 
 - Gathered https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants dataset which consists of Zomato's historical user interaction data, including user reviews, ratings, and order history.
 - Preprocess the data by handling missing values, removing duplicates, and encoding categorical variables.
+![image](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/b1900e37-5534-4b84-ac7b-b9c283104e16)
 
 ### Knowledge Graph Construction
 
 - Construct a knowledge graph using available data, representing relationships between food items, cuisines, restaurants, and user preferences.
 - Define and incorporate ontologies for entities in the knowledge graph.
+![knowledge_graph](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/fb10c426-8c70-4d89-9921-8f9fdc2bd62a)
 
 ### Neural Collaborative Filtering (NCF)
 
