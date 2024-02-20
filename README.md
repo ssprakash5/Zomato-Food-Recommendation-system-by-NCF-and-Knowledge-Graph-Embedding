@@ -5,8 +5,6 @@
 ## Project Overview
 
 This project aims to enhance Zomato's food recommendation system by incorporating advanced techniques such as Neural Collaborative Filtering (NCF) and Knowledge Graph Embeddings. The goal is to provide users with more personalized and accurate food recommendations based on their preferences, past behavior, and the relationships between different food items.
-![image](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/e63e9552-daea-4e6a-9a90-0df253ec92b5)
-
 
 ## Skills and Technologies Utilized
 
