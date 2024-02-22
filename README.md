@@ -4,11 +4,11 @@
 
 ## Project Overview
 
-This project aims to enhance Zomato's food recommendation system by incorporating advanced techniques such as Neural Collaborative Filtering (NCF) and Knowledge Graph Embeddings. The goal is to provide users with more personalized and accurate food recommendations based on their preferences, past behavior, and the relationships between different food items.
+This project aims to enhance Zomato's food recommendation system by incorporating advanced techniques such as Neural Collaborative Filtering (NCF) and Knowledge Graph Embeddings. The goal is to provide users with more personalized and accurate food recommendations based on their preferences, past behavior, and the relationships between different food items. The model trained with Zomato Bangalore Restaurants dataset(https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ## Skills and Technologies Utilized
 
-- Python (TensorFlow, PyTorch, or other deep learning frameworks)
+- Python (PyTorch)
 - Data Preprocessing
 - Collaborative Filtering
 - Neural Networks
@@ -49,14 +49,8 @@ This project aims to enhance Zomato's food recommendation system by incorporatin
 
 - Fine-tune the hyperparameters of both the NCF model and the knowledge graph embedding model to optimize performance.
 
-### User Interface Integration
-
-- Develop a user-friendly interface that integrates the enhanced recommendation system into Zomato's platform, allowing users to receive personalized food recommendations.
-
-### User Feedback and Iteration
-
-- Collect user feedback on the new recommendation system and iteratively improve the model based on user preferences and suggestions.
-
+### Recommendation Model
+- The Recommendation system gives the top 10 dishes/cuisines with Restaurant names and cost of two for each location in Bangalore.
 ## Expected Outcomes
 
 - A more accurate and personalized food recommendation system for Zomato users.
@@ -65,6 +59,6 @@ This project aims to enhance Zomato's food recommendation system by incorporatin
 
 ## Impact
 
-- Enhanced user experience leading to increased customer retention.
-- Increased revenue for Zomato through improved user engagement and satisfaction.
+- Will Enhance user experience leading to increased customer retention.
+- Will Increase revenue for Zomato through improved user engagement and satisfaction.
 
