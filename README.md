@@ -1,6 +1,7 @@
 # Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding
 ![zoma](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/bee75a49-0e9e-4da7-8233-a0c6fc722103)
-![Zomato food recommendation system1](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/0b9b9f2e-d9a4-4703-84d3-07de9671d33e)
+![Zomato Food Recommendation for Each number](https://github.com/ssprakash5/Zomato-Food-Recommendation-system-by-NCF-and-Knowledge-Graph-Embedding/assets/154003057/3ea4a397-71c7-4cc4-b3a7-a87196a0b415)
+
 
 ## Project Overview
 
